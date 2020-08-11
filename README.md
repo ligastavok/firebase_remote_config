@@ -7,7 +7,7 @@ This Go package implements the host-side of the Flutter [firebase_remote_config]
 1) Import as:
 
 ```go
-import "github.com/go-flutter-desktop/plugins/firebase_remote_config"
+import "github.com/jWinterDay/firebase_remote_config"
 ```
 
 Then add the following option to your go-flutter [application options](https://github.com/go-flutter-desktop/go-flutter/wiki/Plugin-info):

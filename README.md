@@ -31,3 +31,5 @@ The plugin is still under development and I need your help as pull-requests
 - save data local (local storage for example)
 
 # Issues
+
+https://github.com/jWinterDay/firebase_remote_config/issues

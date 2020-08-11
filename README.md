@@ -24,7 +24,7 @@ flutter.AddPlugin(&firebase_remote_config.FirebaseRemoteConfigGoFlutterPlugin{})
 
 # Working
 
-This plugin is in progress and I need your help as pull-requests
+The plugin is still under development and I need your help as pull-requests
 
 # TODO
 

@@ -1,4 +1,4 @@
-module github.com/jWinterDay/firebase_remote_config
+module github.com/ligastavok/firebase_remote_config
 
 go 1.13
 

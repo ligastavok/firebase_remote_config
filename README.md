@@ -7,7 +7,7 @@ This Go package implements the host-side of the Flutter [firebase_remote_config]
 1) Import as:
 
 ```go
-import "github.com/jWinterDay/firebase_remote_config"
+import "github.com/ligastavok/firebase_remote_config"
 ```
 
 Then add the following option to your go-flutter [application options](https://github.com/go-flutter-desktop/go-flutter/wiki/Plugin-info):
@@ -32,4 +32,4 @@ The plugin is still under development and I need your help as pull-requests
 
 # Issues
 
-https://github.com/jWinterDay/firebase_remote_config/issues
+https://github.com/ligastavok/firebase_remote_config/issues
